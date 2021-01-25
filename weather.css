@@ -1,0 +1,214 @@
+
+*{
+	margin: 8px;
+	padding: 1px;
+	
+}
+
+
+div.Main_Kh{
+
+    line-height: 15px;
+    
+ 
+
+}
+
+ul{
+border-style: outset;
+list-style: none;
+ border-radius: 10px;  
+ padding: 5px;
+ width: 30%;
+  line-height: 15px;
+  background-color: pink;
+
+}
+
+li{
+
+	padding: 0px;
+}
+
+
+.KharkivId{
+
+
+	display: none;
+}
+
+.KharkivWind{
+
+	display: none;
+}
+
+.Kharkiv_feels{
+
+	display: none;
+}
+
+
+
+
+
+
+.LnId{
+
+
+	display: none;
+}
+
+.LnWind{
+
+	display: none;
+}
+
+.Ln_feels{
+
+	display: none;
+}
+
+
+
+.McId{
+
+
+	display: none;
+}
+
+.McWind{
+
+	display: none;
+}
+
+.Mc_feels{
+
+	display: none;
+}
+
+
+
+.BrId{
+
+
+	display: none;
+}
+
+.BrWind{
+
+	display: none;
+}
+
+.Br_feels{
+
+	display: none;
+}
+
+
+.BerId{
+
+
+	display: none;
+}
+
+.BerWind{
+
+	display: none;
+}
+
+.Ber_feels{
+
+	display: none;
+}
+
+
+.AmId{
+
+
+	display: none;
+}
+
+.AmWind{
+
+	display: none;
+}
+
+.Am_feels{
+
+	display: none;
+}
+
+
+.DbId{
+
+
+	display: none;
+}
+
+.DbWind{
+
+	display: none;
+}
+
+.Db_feels{
+
+	display: none;
+}
+
+.RgId{
+
+
+	display: none;
+}
+
+.RgWind{
+
+	display: none;
+}
+
+.Rg_feels{
+
+	display: none;
+}
+
+.Del_Kh{
+
+	display: none;
+}
+
+.Del_Mc{
+
+	display: none;
+}
+
+.Del_Ln{
+
+	display: none;
+}
+
+.Del_Br{
+
+	display: none;
+}
+
+.Del_Ber{
+
+	display: none;
+}
+
+.Del_Am{
+
+	display: none;
+}
+
+.Del_Db{
+
+	display: none;
+}
+
+.Del_Rg{
+
+	display: none;
+}
+
+
